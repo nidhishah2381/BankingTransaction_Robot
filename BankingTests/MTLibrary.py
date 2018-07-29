@@ -1,6 +1,6 @@
 class MTLibrary(object):
     def __init__(self):
-        self._result = '' '''check webhook '''
+        self._result = '' '''Verify webhook '''
         
     def login(self):
         print("Login Successful");
