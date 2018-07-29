@@ -1,6 +1,6 @@
 class MTLibrary(object):
     def __init__(self):
-        self._result = ''
+        self._result = '' '''check build '''
         
     def login(self):
         print("Login Successful");
