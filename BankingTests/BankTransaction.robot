@@ -3,9 +3,9 @@ Library           MTLibrary.py
 *** Test Cases ***
 Transfer money to Jack 
     Given Login to the online banking portal
-    When Transfer 600 to Jack
-	Then Amount 600 is deducted from current balance
-	Then Amount 600 is increased in current balance of Jack
+    When Transfer 500 to Jack
+	Then Amount 500 is deducted from current balance
+	Then Amount 500 is increased in current balance of Jack
 	
 Withdraw money from Bank 
 	Given Jack submits proofs to the bank to withdraw money 
